@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 hello teesha hiiii
-=======
 hello teesha helloo
->>>>>>> d9dad332b2a36ebd9da1126c4f0615f835b3aa28
 hello krish
